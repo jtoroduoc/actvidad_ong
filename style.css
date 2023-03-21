@@ -1,0 +1,17 @@
+body {
+    font-size: 12px; 
+    font-family: Arial;
+}
+
+.header {
+    text-align: center; 
+    margin-top:15%;
+    color: blue;
+}
+
+.contexto {
+    text-align: justify;
+    margin:0 10% 0 10%;
+    padding: 10px;
+    background-color: cadetblue;    
+}
